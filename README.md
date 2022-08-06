@@ -11,6 +11,5 @@ Hire Question
     <ol>
         <li>php artisan serve</li>
         <li>open 127.0.0.1:8000/converter</li>
-        
     </ol>
 </h4>
